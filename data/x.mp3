@@ -1,0 +1,216 @@
+<!-- START HEADER -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Working Accents: Professional Speaking Solutions for Better Business</title>
+<meta name="author" content="Working Accents" />
+<meta name="revised" content="Working Accents,07/24/2008" />
+<meta name="generator" content="Adobe Dreamweaver CS3" />
+<meta name="description" content="Working Accents: Professional Speaking Solutions for Better Business. Customized courses for individuals and small groups that focus on accent modification for the workplace and vocal improvement for public speaking." />
+<meta name="keywords" content="working accents, english, standard american english, speech, accent, public speaking, workplace, business, vocal, voice, improvement, modification, courses, classes, instruction, individuals, groups, exercises, communication, intelligibility, articulation, flexible, convenient, assessment, clear, effective, clarity, diction, confidence, techniques, methods" />
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" href="includes/style.css" type="text/css" />
+
+<script src="js/jquery-1.2.3.min.js" type="text/javascript"></script>
+<script src="js/gui.js" type="text/javascript"></script>
+<!-- PNG FIX -->
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="js/pngfix.js"></script>
+<![endif]-->
+
+<style type="text/css">
+body {
+
+	background-image: url(/images/bg.png);
+	background-position: top center;
+	background-repeat: no-repeat;
+
+}
+
+#body {
+
+	min-height: 240px;
+
+}
+
+#headerleft, #headerright {
+
+	border: 0px;
+
+}
+
+#bgstrip {
+
+	background-image: url(/images/bg_index.png);
+	background-position: 65% center;
+	background-repeat: no-repeat;
+
+}
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22793482-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div id="header">
+
+	<div id="headerleft"></div>
+
+	<div id="headerright"><a href="/"><img src="images/working_accents_index.png" width="224" height="80" alt="Professional Speaking Solutions" /></a></div>
+
+</div>
+
+	<div id="menu">
+	
+        <div id="menucolumn">
+        <a href="effective_communication.php"><img src="images/menu_1.png" width="236" height="85" alt="Why Working Accents?" class="menu" style="position: absolute; top: 0px; left: 0px;" /></a>
+        <a href="supportive_instruction.php"><img src="images/menu_2.png" width="236" height="80" alt="How Does It Work?" class="menu" style="position: absolute; top: 85px; left: 0px;" /></a>
+        <a href="american_english.php"><img src="images/menu_3.png" width="236" height="80" alt="Take An Assessment" class="menu" style="position: absolute; top: 165px; left: 0px;" /></a>
+        <a href="first_impressions.php"><img src="images/menu_4.png" width="236" height="85" alt="Praise" class="menu" style="position: absolute; top: 0px; left: 236px;" /></a>
+        <a href="accent_modification.php"><img src="images/menu_5.png" width="236" height="80" alt="About Us" class="menu" style="position: absolute; top: 85px; left: 236px;" /></a>
+        <a href="better_speech_delivery.php"><img src="images/menu_6.png" width="236" height="80" alt="Contact Us" class="menu" style="position: absolute; top: 165px; left: 236px;" /></a>
+        </div>
+    
+    </div>
+
+<div id="body">
+
+	<h1><a href="speech_course_schedule.php"><img src="images/promo_course_schedule.png" width="288" height="32" alt="See our upcoming courses" style="padding-top: 26px;" class="switch" /></a></h1>
+
+	<h1 style="float: right; clear: none;"><img src="images/h1_speaking_solutions.png" width="464" height="64" alt="Professional Speaking Solutions" /></h1>
+
+    
+    <br />
+
+    
+    <div id="content">
+
+<!-- END HEADER -->
+
+	<div class="left">
+    
+    <h2><img src="images/h2_voice_image.png" width="416" height="40" alt="Your voice is your image" /></h2>
+    
+    <p>Is English your second language or are you feeling misunderstood because of your accent? Are you often asked to repeat what you say? When you speak, do people understand you?</p>
+	
+	<p><strong>Working Accents</strong> offers flexible courses for individuals and small groups that will improve clarity, diction, and voice projection.</p>
+    
+    <br />
+    
+    <h2><img src="images/h2_focus_voice.png" width="416" height="40" alt="Our focus is your voice" /></h2>
+    
+    <p>Using targeted speech modification techniques, <strong>Working Accents</strong> will help you to be more productive and achieve greater success in the workplace by:</p>
+
+	<ul>
+    <li>Creating positive first impressions</li>
+    <li>Speaking in a clear, distinct and more productive manner</li>
+    <li>Developing more effective presentation skills</li>
+    <li>Redesigning the image you project</li>
+	</ul>
+    
+    <p><a href="effective_communication.php"><img src="images/button_learn_more.png" width="144" height="52" alt="Learn more" class="button" /></a></p>
+    
+    </div>
+
+	<div class="right">
+    
+    <iframe width="464" height="261" src="http://www.youtube.com/embed/nfYguO5sHCI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+    <br /><br />
+    
+    <p>Don't let your accent or speech hold you back. <strong>Working Accents</strong> will help you to make people notice what you say, not how you say it.</p>
+        
+    <p><a href="supportive_instruction.php"><img src="images/button_courses.png" width="144" height="52" alt="Our courses" class="button" /></a></p>
+    
+    </div>
+
+<script type="text/javascript">
+//Preload
+image1 = new Image(); 
+image1.src = "images/bg_header.png";
+image2 = new Image(); 
+image2.src = "images/bg_body.png";
+image3 = new Image(); 
+image3.src = "images/enc_body.png";
+image4 = new Image(); 
+image4.src = "images/enc_top.png";
+image5 = new Image(); 
+image5.src = "images/enc_bottom.png";
+image6 = new Image(); 
+image6.src = "images/h1_effective_communication.png";
+image7 = new Image(); 
+image7.src = "images/h1_supportive_instruction.png";
+image8 = new Image(); 
+image8.src = "images/h1_american_english.png";
+image9 = new Image(); 
+image9.src = "images/h1_first_impressions.png";
+image10 = new Image(); 
+image10.src = "images/h1_better_speech_delivery.png";
+image11 = new Image(); 
+image11.src = "images/h1_accent_modification.png";
+image12 = new Image(); 
+image12.src = "images/bg_effective_communication.png";
+image13 = new Image(); 
+image13.src = "images/bg_supportive_instruction.png";
+image14 = new Image(); 
+image14.src = "images/bg_american_english.png";
+image15 = new Image(); 
+image15.src = "images/bg_first_impressions.png";
+image16 = new Image(); 
+image16.src = "images/bg_better_speech_delivery.png";
+image17 = new Image(); 
+image17.src = "images/bg_accent_modification.png";
+</script>
+
+
+	<div class="left" style="border: 0px;">
+    
+    <a href="email_page.php?page=/index.php"><img src="images/body_button_1.png" width="84" height="20" alt="Email this page" class="bodybutton" /></a><script type="text/javascript">addthis_pub  = 'ixwa';</script><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="images/body_button_2.png" width="84" height="20" alt="Share this site" class="bodybutton" /></a>
+    
+    <!-- AddThis Button START -->
+	<script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>  
+	<!-- AddThis Button END -->
+    
+    </div>
+
+    
+</div>
+
+<div id="bgstrip"></div>
+
+<div id="footer">
+    
+	<div id="footerright">
+    
+    &copy; 2013 Working Accents LLC. All rights reserved.<br />
+    <a href="http://www.ixwa.com">website by ixwa</a>
+
+	<br /><br />
+    
+    <a href="#" onclick="javascript:window.open('https://www.paypal.com/sg/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="images/paypal_mastercard_visa.png" width="120" height="20" alt="We accept Paypal (includes Mastercard, Visa and other major credit cards)" class="switch" /></a>
+    
+    <br /><br />
+    
+    </div>
+
+</div>
+
+</div>
+
+</body>
+</html>
