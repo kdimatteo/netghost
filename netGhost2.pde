@@ -11,19 +11,27 @@ import guru.ttslib.*;
 
 CarnivoreP5 carnivore;
 TTS tts;
+String alpha;
 
 void setup(){
-  
   size(600, 400);
   background(000);
+  
   Log.setDebug(true);
+  alpha = "abcdefghijklmnopqrstuvwyz";
+  
   tts = new TTS();
-  tts.setPitchShift(-1); 
+  //  tts.setPitchShift(0); 
   carnivore = new CarnivoreP5(this);
+  carnivore.setShouldSkipUDP(true);
 }
 
 void packetEvent(CarnivorePacket myPacket){
-  tts.speak(myPacket.ascii()); 
+  String s = myPacket.ascii().replace(" ", "");
+  s = s.replaceAll("[^A-Za-z]", "");
+  //s = s.replaceAll("[\\W]|_", "");  
+  println(s);
+  tts.speak(s); 
 }
 
 
